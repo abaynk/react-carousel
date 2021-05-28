@@ -8,18 +8,16 @@ const Thumbnails = ({ data, active, setActive }) => {
   }, [active]);
   return (
     <div className="container">
-      <div className="photobanner">
-        {data.map((image, index) => {
-          return (
-            <img
-              src={image.image}
-              alt="photo"
-              className={active === index ? "thumb active" : "thumb"}
-              onClick={() => setActive(index)}
-            />
-          );
-        })}
-      </div>
+      {data.map((image, index) => {
+        return (
+          <img
+            src={image.image}
+            alt="photo"
+            className={active === index ? "thumb active" : "thumb"}
+            onClick={() => setActive(index)}
+          />
+        );
+      })}
     </div>
   );
 };

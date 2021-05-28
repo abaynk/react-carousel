@@ -6,8 +6,9 @@
   height: 72px;
   white-space: nowrap;
   display: flex;
-  flex-wrap: no-wrap;
+  flex-wrap: nowrap;
   white-space: nowrap;
+  scrollbar-width: none;
 }
 .container::-webkit-scrollbar {
   display: none;
