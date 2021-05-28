@@ -16,6 +16,6 @@
     under <code>devServer</code> change <code>host</code> to your IPv4 adress (you can find it if you type ipconfig in your terminal)
   </li>
   <li>
-  run <code>npm run start/code> command in your terminal. the app will be started on your <code>localhost:8080</code>, you can access it from your touch device by typing <code>{your IPv4}:8080</code> into adress bar.
+  run <code>npm run start</code> command in your terminal. the app will be started on your <code>localhost:8080</code>, you can access it from your touch device by typing <code>{your IPv4}:8080</code> into adress bar.
   </li>
 </ol>
