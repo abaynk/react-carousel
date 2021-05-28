@@ -4,7 +4,7 @@ import "../assets/styles/Thumbnails.css";
 
 const Thumbnails = ({ data, active, setActive }) => {
   useEffect(() => {
-    document.querySelector(".container").scrollTo(active * 100, 0);
+    document.querySelector(".container").scrollTo(active * 90, 0);
   }, [active]);
   return (
     <div className="container">
