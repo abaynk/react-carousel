@@ -21,102 +21,49 @@ export const Data = [
   },
   {
     image:
-      "https://images.unsplash.com/photo-1464802686167-b939a6910659?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8M3x8fGVufDB8fHx8&w=1000&q=80",
+      "https://www.wallpapertip.com/wmimgs/28-280088_star-trek-discovery-starship.jpg",
   },
   {
     image:
-      "https://images.unsplash.com/photo-1543722530-d2c3201371e7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8Mnx8fGVufDB8fHx8&w=1000&q=80",
+      "https://www.wallpapertip.com/wmimgs/221-2212559_new-york-iphone-wallpaper-hd.jpg",
   },
   {
     image:
-      "https://images.unsplash.com/photo-1445905595283-21f8ae8a33d2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8Mjh8fHxlbnwwfHx8fA%3D%3D&w=1000&q=80",
+      "https://images.unsplash.com/photo-1537884944318-390069bb8665?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGNvZGV8ZW58MHx8MHx8&ixlib=rb-1.2.1&w=1000&q=80",
   },
   {
     image:
-      "https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dGVjaHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80",
+      "https://images.unsplash.com/photo-1515896769750-31548aa180ed?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bG9zJTIwYW5nZWxlc3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80",
   },
   {
     image:
-      "https://earthnworld.com/wp-content/uploads/2016/02/Milky-way-1-1000x600.jpg",
+      "https://images.unsplash.com/photo-1573027447583-c0ea1a268052?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjF8fGJyaWNrJTIwd2FsbHxlbnwwfHwwfHw%3D&w=1000&q=80",
   },
   {
     image:
-      "https://images.unsplash.com/photo-1464802686167-b939a6910659?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8M3x8fGVufDB8fHx8&w=1000&q=80",
+      "https://images.squarespace-cdn.com/content/v1/5f81cca7e6ebb25ecbeb76c8/1603287055973-4TXNXWQ5YKOJ2GEAFWCA/ke17ZwdGBToddI8pDm48kFwLpwhcqxzfNuBZPTq0g3kUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYy7Mythp_T-mtop-vrsUOmeInPi9iDjx9w8K4ZfjXt2dnihgU9gKGLroRAsvpywHz61e7rLscY9kQ8yq3Ldx1LvP7cJNZlDXbgJNE9ef52e8w/picography.jpg",
   },
   {
     image:
-      "https://images.unsplash.com/photo-1543722530-d2c3201371e7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8Mnx8fGVufDB8fHx8&w=1000&q=80",
+      "https://i.pinimg.com/originals/c5/6c/aa/c56caa526da8e5e8b4ac72c41ea2bbf7.jpg",
+  },
+  {
+    image: "https://static.zerochan.net/Granblue.Fantasy.full.2108782.jpg",
   },
   {
     image:
-      "https://images.unsplash.com/photo-1445905595283-21f8ae8a33d2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8Mjh8fHxlbnwwfHx8fA%3D%3D&w=1000&q=80",
+      "https://www.suzuki.at/auto/offentliche-bilder/inhalte/bereich-suzuki/news/bilder-news-2018/allradmesse-gaaden-2018/Suzuki-SX4-S-CROSS-auf-Spur-1000x600.jpg",
   },
   {
     image:
-      "https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dGVjaHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80",
+      "https://sammlungfriedrichshof.at/wp-content/uploads/DSC2576_two-1000x600.jpg",
   },
   {
     image:
-      "https://earthnworld.com/wp-content/uploads/2016/02/Milky-way-1-1000x600.jpg",
+      "https://www.schick-seitenblicke.at/en/wp-content/uploads/sites/2/2020/03/Schmetterlinghaus-Schmettering-1000x600.jpg",
   },
   {
     image:
-      "https://images.unsplash.com/photo-1464802686167-b939a6910659?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8M3x8fGVufDB8fHx8&w=1000&q=80",
-  },
-  {
-    image:
-      "https://images.unsplash.com/photo-1543722530-d2c3201371e7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8Mnx8fGVufDB8fHx8&w=1000&q=80",
-  },
-  {
-    image:
-      "https://images.unsplash.com/photo-1445905595283-21f8ae8a33d2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8Mjh8fHxlbnwwfHx8fA%3D%3D&w=1000&q=80",
-  },
-  {
-    image:
-      "https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dGVjaHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80",
-  },
-  {
-    image:
-      "https://earthnworld.com/wp-content/uploads/2016/02/Milky-way-1-1000x600.jpg",
-  },
-  {
-    image:
-      "https://images.unsplash.com/photo-1464802686167-b939a6910659?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8M3x8fGVufDB8fHx8&w=1000&q=80",
-  },
-  {
-    image:
-      "https://images.unsplash.com/photo-1543722530-d2c3201371e7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8Mnx8fGVufDB8fHx8&w=1000&q=80",
-  },
-  {
-    image:
-      "https://images.unsplash.com/photo-1445905595283-21f8ae8a33d2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8Mjh8fHxlbnwwfHx8fA%3D%3D&w=1000&q=80",
-  },
-  {
-    image:
-      "https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dGVjaHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80",
-  },
-  {
-    image:
-      "https://earthnworld.com/wp-content/uploads/2016/02/Milky-way-1-1000x600.jpg",
-  },
-  {
-    image:
-      "https://images.unsplash.com/photo-1464802686167-b939a6910659?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8M3x8fGVufDB8fHx8&w=1000&q=80",
-  },
-  {
-    image:
-      "https://images.unsplash.com/photo-1543722530-d2c3201371e7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8Mnx8fGVufDB8fHx8&w=1000&q=80",
-  },
-  {
-    image:
-      "https://images.unsplash.com/photo-1445905595283-21f8ae8a33d2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8Mjh8fHxlbnwwfHx8fA%3D%3D&w=1000&q=80",
-  },
-  {
-    image:
-      "https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dGVjaHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80",
-  },
-  {
-    image:
-      "https://earthnworld.com/wp-content/uploads/2016/02/Milky-way-1-1000x600.jpg",
+      "https://goodtimes.sc/wp-content/uploads/2020/02/burgerhistory-gtw2008-1200-675-1000x600.jpg",
   },
 ];
