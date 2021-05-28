@@ -7,7 +7,7 @@
   open your terminal and change your current directory to directory you want to clone this project.
   </li>
   <li>
-  in your terminal type <b>git clone https://github.com/abaynk/react-carousel.git</b>
+  in your terminal type <b><em>git clone https://github.com/abaynk/react-carousel.git</b>
   </li>
   <li>
   navigate to <b>webpack.config.js</b> file
