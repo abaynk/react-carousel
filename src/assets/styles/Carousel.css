@@ -1,0 +1,83 @@
+* {
+  -webkit-user-drag: none;
+  user-select: none;
+  -moz-user-select: none;
+  -webkit-user-drag: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+}
+.root {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 90vh;
+  margin: auto;
+}
+.slider {
+  display: flex;
+  position: relative;
+  height: fit-content !important;
+  margin: auto;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  touch-action: pan-x;
+}
+
+.image {
+  width: 600px;
+  height: 360px;
+  border-radius: 10px;
+}
+@media only screen and (min-width: 1020px) {
+  .image {
+    width: 1000px;
+    height: 600px;
+    border-radius: 10px;
+  }
+}
+.imageRight {
+  width: 500px;
+  height: 300px;
+}
+.imageLeft {
+  width: 500px;
+  height: 300px;
+}
+.button {
+  position: absolute;
+  border: none;
+  width: 100px;
+  padding: 20px;
+  cursor: pointer;
+  z-index: 10;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  -webkit-tap-highlight-color: transparent;
+}
+.button:hover {
+  transition-duration: 0.1s;
+
+  transform: scale(1.1);
+}
+.left {
+  left: 32px;
+}
+.right {
+  right: 32px;
+}
+.frame {
+  opacity: 0.8;
+  transition-duration: 0.5s ease;
+}
+.frame.current {
+  opacity: 1;
+  transition-duration: 0.5s;
+  transform: scale(1.08);
+}
