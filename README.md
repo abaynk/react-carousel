@@ -7,16 +7,15 @@
   open your terminal and change your current directory to directory you want to clone this project.
   </li>
   <li>
-    in your terminal type <b><em>git clone https://github.com/abaynk/react-carousel.git</em></b>
-    <code>npm run start</code>
+    in your terminal type <code>git clone https://github.com/abaynk/react-carousel.git</code>
   </li>
   <li>
-    navigate to <b><em>webpack.config.js</em></b> file
+    navigate to <code>webpack.config.js</code> file
   </li>
   <li>
-    under <b><em>devServer</em></b> change <b><em>host</em></b> to your IPv4 adress (you can find it if you type ipconfig in your terminal)
+    under <code>devServer</code> change <code>host</code> to your IPv4 adress (you can find it if you type ipconfig in your terminal)
   </li>
   <li>
-  run <b><em>npm run start/em></b> command in your terminal. the app will be started on your <b><em>localhost:8080</em></b>, you can access it from your touch device by typing <b><em>{your IPv4}:8080</em></b> into adress bar.
+  run <code>npm run start/code> command in your terminal. the app will be started on your <code>localhost:8080</code>, you can access it from your touch device by typing <code>{your IPv4}:8080</code> into adress bar.
   </li>
 </ol>
