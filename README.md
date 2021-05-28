@@ -1,7 +1,7 @@
 # react-carousel
-Responsive slider carousel in React. Supports swipe gestures. Smooth animations when changing slide. Supports multiple slides, infinite sliding, you can choose which slide you want to go to.
+<h3>Responsive slider carousel in React. Supports swipe gestures. Smooth animations when changing slide. Supports multiple slides, infinite sliding, you can choose which slide you want to go to.</h3>
 <hr>
-to start app on your local machine: 
+<h4>to start app on your local machine:</h4> 
 <ol>
   <li>
   open your terminal and change your current directory to directory you want to clone this project.
