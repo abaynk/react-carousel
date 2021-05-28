@@ -8,6 +8,7 @@
   </li>
   <li>
     in your terminal type <b><em>git clone https://github.com/abaynk/react-carousel.git</em></b>
+    <code>npm run start</code>
   </li>
   <li>
     navigate to <b><em>webpack.config.js</em></b> file
