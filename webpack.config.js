@@ -1,9 +1,20 @@
 const HtmlWebPackPlugin = require("html-webpack-plugin");
+const path = require("path");
 const htmlPlugin = new HtmlWebPackPlugin({
   template: "./src/index.html",
   filename: "./index.html",
 });
 module.exports = {
+  devtool: "inline-source-map",
+  entry: "./src/index.js",
+  output: {
+    path: path.resolve(__dirname, "build"),
+    publicPath: "/",
+    filename: "bundle.js",
+  },
+  devServer: {
+    contentBase: "./dist",
+  },
   mode: "development",
   module: {
     rules: [
