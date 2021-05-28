@@ -4,7 +4,7 @@
 <h4>to start app on your local machine:</h4> 
 <ol>
   <li>
-  open your terminal and change your current directory to directory you want to clone this project.
+  open your terminal and change your current directory to directory you want to clone this project to
   </li>
   <li>
     in your terminal type <code>git clone https://github.com/abaynk/react-carousel.git</code>
